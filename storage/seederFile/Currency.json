@@ -1,0 +1,1115 @@
+[
+    {
+        "title": "Afghan afghani",
+        "ratio": "0.12",
+        "is_default": "0",
+        "symbol": "Ø",
+        "Iso3": "AFN"
+    },
+    {
+        "title": "Albanian lek",
+        "ratio": "1.12",
+        "is_default": "0",
+        "symbol": "L",
+        "Iso3": "ALL"
+    },
+    {
+        "title": "Algerian dinar",
+        "ratio": "2.12",
+        "is_default": "0",
+        "symbol": "Ø¯.Ø¬",
+        "Iso3": "DZD"
+    },
+    {
+        "title": "Angolan kwanza",
+        "ratio": "4.12",
+        "is_default": "0",
+        "symbol": "Kz",
+        "Iso3": "AOA"
+    },
+    {
+        "title": "Argentine peso",
+        "ratio": "6.12",
+        "is_default": "0",
+        "symbol": "$",
+        "Iso3": "ARS"
+    },
+    {
+        "title": "Armenian dram",
+        "ratio": "7.12",
+        "is_default": "0",
+        "symbol": "Ö",
+        "Iso3": "AMD"
+    },
+    {
+        "title": "Aruban florin",
+        "ratio": "8.12",
+        "is_default": "0",
+        "symbol": "Æ",
+        "Iso3": "AWG"
+    },
+    {
+        "title": "Australian dollar",
+        "ratio": "9.12",
+        "is_default": "0",
+        "symbol": "A$",
+        "Iso3": "AUD"
+    },
+    {
+        "title": "Azerbaijani manat",
+        "ratio": "11.12",
+        "is_default": "0",
+        "symbol": "Ð¼Ð°Ð½",
+        "Iso3": "AZN"
+    },
+    {
+        "title": "Bahamian dollar",
+        "ratio": "12.12",
+        "is_default": "0",
+        "symbol": "B$",
+        "Iso3": "BSD"
+    },
+    {
+        "title": "Bahraini dinar",
+        "ratio": "13.12",
+        "is_default": "0",
+        "symbol": ".Ø¯.Ø¨",
+        "Iso3": "BHD"
+    },
+    {
+        "title": "Bangladeshi taka",
+        "ratio": "14.12",
+        "is_default": "0",
+        "symbol": "à§³",
+        "Iso3": "BDT"
+    },
+    {
+        "title": "Barbadian dollar",
+        "ratio": "15.12",
+        "is_default": "0",
+        "symbol": "Bds$",
+        "Iso3": "BBD"
+    },
+    {
+        "title": "Belarusian ruble",
+        "ratio": "16.12",
+        "is_default": "0",
+        "symbol": "Br",
+        "Iso3": "BYR"
+    },
+    {
+        "title": "Belizean dollar",
+        "ratio": "18.12",
+        "is_default": "0",
+        "symbol": "BZ$",
+        "Iso3": "BZD"
+    },
+    {
+        "title": "Bermudian dollar",
+        "ratio": "20.12",
+        "is_default": "0",
+        "symbol": "BD$",
+        "Iso3": "BMD"
+    },
+    {
+        "title": "Bhutanese ngultrum",
+        "ratio": "21.12",
+        "is_default": "0",
+        "symbol": "Nu.",
+        "Iso3": "BTN"
+    },
+    {
+        "title": "Bolivian boliviano",
+        "ratio": "22.12",
+        "is_default": "0",
+        "symbol": "Bs.",
+        "Iso3": "BOB"
+    },
+    {
+        "title": "Bosnia and Herzegovina convertible mark",
+        "ratio": "24.12",
+        "is_default": "0",
+        "symbol": "KM",
+        "Iso3": "BAM"
+    },
+    {
+        "title": "Botswana pula",
+        "ratio": "25.12",
+        "is_default": "0",
+        "symbol": "P",
+        "Iso3": "BWP"
+    },
+    {
+        "title": "Brazilian real",
+        "ratio": "26.12",
+        "is_default": "0",
+        "symbol": "R$",
+        "Iso3": "BRL"
+    },
+    {
+        "title": "British pound",
+        "ratio": "81.12",
+        "is_default": "0",
+        "symbol": "Â£",
+        "Iso3": "GBP"
+    },
+    {
+        "title": "Brunei dollar",
+        "ratio": "28.12",
+        "is_default": "0",
+        "symbol": "B$",
+        "Iso3": "BND"
+    },
+    {
+        "title": "Bulgarian lev",
+        "ratio": "29.12",
+        "is_default": "0",
+        "symbol": "Ð»Ð²",
+        "Iso3": "BGN"
+    },
+    {
+        "title": "Burmese kyat",
+        "ratio": "31.12",
+        "is_default": "0",
+        "symbol": "K",
+        "Iso3": "MMK"
+    },
+    {
+        "title": "Burundian franc",
+        "ratio": "32.12",
+        "is_default": "0",
+        "symbol": "FBu",
+        "Iso3": "BIF"
+    },
+    {
+        "title": "Cambodian riel",
+        "ratio": "33.12",
+        "is_default": "0",
+        "symbol": "á",
+        "Iso3": "KHR"
+    },
+    {
+        "title": "Canadian dollar",
+        "ratio": "35.12",
+        "is_default": "0",
+        "symbol": "C$",
+        "Iso3": "CAD"
+    },
+    {
+        "title": "Cape Verdean escudo",
+        "ratio": "36.12",
+        "is_default": "0",
+        "symbol": "Esc",
+        "Iso3": "CVE"
+    },
+    {
+        "title": "Cayman Islands dollar",
+        "ratio": "37.12",
+        "is_default": "0",
+        "symbol": "KY$",
+        "Iso3": "KYD"
+    },
+    {
+        "title": "Central African CFA franc",
+        "ratio": "34.12",
+        "is_default": "0",
+        "symbol": "CFA",
+        "Iso3": "XAF"
+    },
+    {
+        "title": "CFP franc",
+        "ratio": "71.12",
+        "is_default": "0",
+        "symbol": "F",
+        "Iso3": "XPF"
+    },
+    {
+        "title": "Chilean peso",
+        "ratio": "40.12",
+        "is_default": "0",
+        "symbol": "$",
+        "Iso3": "CLP"
+    },
+    {
+        "title": "Chinese renminbi",
+        "ratio": "41.12",
+        "is_default": "0",
+        "symbol": "Â¥",
+        "Iso3": "CNY"
+    },
+    {
+        "title": "Colombian peso",
+        "ratio": "43.12",
+        "is_default": "0",
+        "symbol": "$",
+        "Iso3": "COP"
+    },
+    {
+        "title": "Comorian franc",
+        "ratio": "44.12",
+        "is_default": "0",
+        "symbol": "CF",
+        "Iso3": "KMF"
+    },
+    {
+        "title": "Congolese franc",
+        "ratio": "45.12",
+        "is_default": "0",
+        "symbol": "FC",
+        "Iso3": "CDF"
+    },
+    {
+        "title": "Costa Rican colon",
+        "ratio": "48.12",
+        "is_default": "0",
+        "symbol": "â¡",
+        "Iso3": "CRC"
+    },
+    {
+        "title": "Croatian kuna",
+        "ratio": "50.12",
+        "is_default": "0",
+        "symbol": "kn",
+        "Iso3": "HRK"
+    },
+    {
+        "title": "Cuban peso",
+        "ratio": "51.12",
+        "is_default": "0",
+        "symbol": "â±",
+        "Iso3": "CUC"
+    },
+    {
+        "title": "Czech koruna",
+        "ratio": "54.12",
+        "is_default": "0",
+        "symbol": "KÄ",
+        "Iso3": "CZK"
+    },
+    {
+        "title": "Danish krone",
+        "ratio": "55.12",
+        "is_default": "0",
+        "symbol": "kr",
+        "Iso3": "DKK"
+    },
+    {
+        "title": "Djiboutian franc",
+        "ratio": "56.12",
+        "is_default": "0",
+        "symbol": "Fdj",
+        "Iso3": "DJF"
+    },
+    {
+        "title": "Dominican peso",
+        "ratio": "58.12",
+        "is_default": "0",
+        "symbol": "RD$",
+        "Iso3": "DOP"
+    },
+    {
+        "title": "East Caribbean dollar",
+        "ratio": "5.12",
+        "is_default": "0",
+        "symbol": "EC$",
+        "Iso3": "XCD"
+    },
+    {
+        "title": "Egyptian pound",
+        "ratio": "61.12",
+        "is_default": "0",
+        "symbol": "EÂ£",
+        "Iso3": "EGP"
+    },
+    {
+        "title": "Eritrean nakfa",
+        "ratio": "64.12",
+        "is_default": "0",
+        "symbol": "Nfa",
+        "Iso3": "ERN"
+    },
+    {
+        "title": "Ethiopian birr",
+        "ratio": "66.12",
+        "is_default": "0",
+        "symbol": "Br",
+        "Iso3": "ETB"
+    },
+    {
+        "title": "Euro",
+        "ratio": "3.12",
+        "is_default": "0",
+        "symbol": "â¬",
+        "Iso3": "EUR"
+    },
+    {
+        "title": "Falkland Islands pound",
+        "ratio": "67.12",
+        "is_default": "0",
+        "symbol": "FKÂ£",
+        "Iso3": "FKP"
+    },
+    {
+        "title": "Fijian dollar",
+        "ratio": "68.12",
+        "is_default": "0",
+        "symbol": "FJ$",
+        "Iso3": "FJD"
+    },
+    {
+        "title": "Gambian dalasi",
+        "ratio": "73.12",
+        "is_default": "0",
+        "symbol": "D",
+        "Iso3": "GMD"
+    },
+    {
+        "title": "Georgian lari",
+        "ratio": "74.12",
+        "is_default": "0",
+        "symbol": "á",
+        "Iso3": "GEL"
+    },
+    {
+        "title": "Ghanian cedi",
+        "ratio": "76.12",
+        "is_default": "0",
+        "symbol": "âµ",
+        "Iso3": "GHS"
+    },
+    {
+        "title": "Gibraltar pound",
+        "ratio": "77.12",
+        "is_default": "0",
+        "symbol": "Â£",
+        "Iso3": "GIP"
+    },
+    {
+        "title": "Guatemalan quetzal",
+        "ratio": "80.12",
+        "is_default": "0",
+        "symbol": "Q",
+        "Iso3": "GTQ"
+    },
+    {
+        "title": "Guinean franc",
+        "ratio": "82.12",
+        "is_default": "0",
+        "symbol": "FG",
+        "Iso3": "GNF"
+    },
+    {
+        "title": "Guyanese dollar",
+        "ratio": "84.12",
+        "is_default": "0",
+        "symbol": "GY$",
+        "Iso3": "GYD"
+    },
+    {
+        "title": "Haitian gourde",
+        "ratio": "85.12",
+        "is_default": "0",
+        "symbol": "G",
+        "Iso3": "HTG"
+    },
+    {
+        "title": "Honduran lempira",
+        "ratio": "86.12",
+        "is_default": "0",
+        "symbol": "L",
+        "Iso3": "HNL"
+    },
+    {
+        "title": "Hong Kong dollar",
+        "ratio": "87.12",
+        "is_default": "0",
+        "symbol": "HK$",
+        "Iso3": "HKD"
+    },
+    {
+        "title": "Hungarian forint",
+        "ratio": "88.12",
+        "is_default": "0",
+        "symbol": "Ft",
+        "Iso3": "HUF"
+    },
+    {
+        "title": "Icelandic krona",
+        "ratio": "89.12",
+        "is_default": "0",
+        "symbol": "kr",
+        "Iso3": "ISK"
+    },
+    {
+        "title": "Indian rupee",
+        "ratio": "90.12",
+        "is_default": "0",
+        "symbol": "non",
+        "Iso3": "INR"
+    },
+    {
+        "title": "Indonesian rupiah",
+        "ratio": "91.12",
+        "is_default": "0",
+        "symbol": "Rp",
+        "Iso3": "IDR"
+    },
+    {
+        "title": "Iranian rial",
+        "ratio": "92.12",
+        "is_default": "0",
+        "symbol": "ï·¼",
+        "Iso3": "IRR"
+    },
+    {
+        "title": "Iraqi dinar",
+        "ratio": "93.12",
+        "is_default": "0",
+        "symbol": "Ø¹.Ø¯",
+        "Iso3": "IQD"
+    },
+    {
+        "title": "Israeli new sheqel",
+        "ratio": "96.12",
+        "is_default": "0",
+        "symbol": "âª",
+        "Iso3": "ILS"
+    },
+    {
+        "title": "Jamaican dollar",
+        "ratio": "98.12",
+        "is_default": "0",
+        "symbol": "J$",
+        "Iso3": "JMD"
+    },
+    {
+        "title": "Japanese yen",
+        "ratio": "99.12",
+        "is_default": "0",
+        "symbol": "Â¥",
+        "Iso3": "JPY"
+    },
+    {
+        "title": "Jordanian dinar",
+        "ratio": "101.12",
+        "is_default": "0",
+        "symbol": "Ø¯.Ø§",
+        "Iso3": "JOD"
+    },
+    {
+        "title": "Kazakhstani tenge",
+        "ratio": "102.12",
+        "is_default": "0",
+        "symbol": "â¸",
+        "Iso3": "KZT"
+    },
+    {
+        "title": "Kenyan shilling",
+        "ratio": "103.12",
+        "is_default": "0",
+        "symbol": "KSh",
+        "Iso3": "KES"
+    },
+    {
+        "title": "Kuwaiti dinar",
+        "ratio": "107.12",
+        "is_default": "0",
+        "symbol": "Ø¯.Ù",
+        "Iso3": "KWD"
+    },
+    {
+        "title": "Kyrgyzstani som",
+        "ratio": "108.12",
+        "is_default": "0",
+        "symbol": "Ð»Ð²",
+        "Iso3": "KGS"
+    },
+    {
+        "title": "Lao kip",
+        "ratio": "109.12",
+        "is_default": "0",
+        "symbol": "â­",
+        "Iso3": "LAK"
+    },
+    {
+        "title": "Latvian lats",
+        "ratio": "110.12",
+        "is_default": "0",
+        "symbol": "Ls",
+        "Iso3": "LVL"
+    },
+    {
+        "title": "Lebanese pound",
+        "ratio": "111.12",
+        "is_default": "0",
+        "symbol": "LÂ£",
+        "Iso3": "LBP"
+    },
+    {
+        "title": "Lesotho loti",
+        "ratio": "112.12",
+        "is_default": "0",
+        "symbol": "L",
+        "Iso3": "LSL"
+    },
+    {
+        "title": "Liberian dollar",
+        "ratio": "113.12",
+        "is_default": "0",
+        "symbol": "L$",
+        "Iso3": "LRD"
+    },
+    {
+        "title": "Libyan dinar",
+        "ratio": "114.12",
+        "is_default": "0",
+        "symbol": "Ù.Ø¯",
+        "Iso3": "LD"
+    },
+    {
+        "title": "Lithuanian litas",
+        "ratio": "116.12",
+        "is_default": "0",
+        "symbol": "Lt",
+        "Iso3": "LTL"
+    },
+    {
+        "title": "Macanese pataca",
+        "ratio": "118.12",
+        "is_default": "0",
+        "symbol": "P",
+        "Iso3": "MOP"
+    },
+    {
+        "title": "Macedonian denar",
+        "ratio": "119.12",
+        "is_default": "0",
+        "symbol": "Ð´ÐµÐ½",
+        "Iso3": "MKD"
+    },
+    {
+        "title": "Malagasy ariary",
+        "ratio": "120.12",
+        "is_default": "0",
+        "symbol": "Ar",
+        "Iso3": "MGA"
+    },
+    {
+        "title": "Malawian kwacha",
+        "ratio": "121.12",
+        "is_default": "0",
+        "symbol": "MK",
+        "Iso3": "MWK"
+    },
+    {
+        "title": "Malaysian ringgit",
+        "ratio": "122.12",
+        "is_default": "0",
+        "symbol": "RM",
+        "Iso3": "MYR"
+    },
+    {
+        "title": "Maldivian rufiyaa",
+        "ratio": "123.12",
+        "is_default": "0",
+        "symbol": "Rf",
+        "Iso3": "MVR"
+    },
+    {
+        "title": "Mauritanian ouguiya",
+        "ratio": "127.12",
+        "is_default": "0",
+        "symbol": "UM",
+        "Iso3": "MRO"
+    },
+    {
+        "title": "Mauritian rupee",
+        "ratio": "128.12",
+        "is_default": "0",
+        "symbol": "És",
+        "Iso3": "MUR"
+    },
+    {
+        "title": "Mexican peso",
+        "ratio": "129.12",
+        "is_default": "0",
+        "symbol": "$",
+        "Iso3": "MXN"
+    },
+    {
+        "title": "Moldovan leu",
+        "ratio": "131.12",
+        "is_default": "0",
+        "symbol": "L",
+        "Iso3": "MDL"
+    },
+    {
+        "title": "Mongolian tugrik",
+        "ratio": "132.12",
+        "is_default": "0",
+        "symbol": "â®",
+        "Iso3": "MNT"
+    },
+    {
+        "title": "Moroccan dirham",
+        "ratio": "135.12",
+        "is_default": "0",
+        "symbol": "Ø¯.Ù.",
+        "Iso3": "MAD"
+    },
+    {
+        "title": "Mozambican metical",
+        "ratio": "136.12",
+        "is_default": "0",
+        "symbol": "MT",
+        "Iso3": "MZN"
+    },
+    {
+        "title": "Namibian dollar",
+        "ratio": "137.12",
+        "is_default": "0",
+        "symbol": "N$",
+        "Iso3": "NAD"
+    },
+    {
+        "title": "Nepalese rupee",
+        "ratio": "139.12",
+        "is_default": "0",
+        "symbol": "NÉs",
+        "Iso3": "NPR"
+    },
+    {
+        "title": "Netherlands Antilles guilder",
+        "ratio": "52.12",
+        "is_default": "0",
+        "symbol": "Æ",
+        "Iso3": "ANG"
+    },
+    {
+        "title": "Netherlands Antilles guilder",
+        "ratio": "141.12",
+        "is_default": "0",
+        "symbol": "Æ",
+        "Iso3": "ANG"
+    },
+    {
+        "title": "New Taiwan dollar",
+        "ratio": "193.12",
+        "is_default": "0",
+        "symbol": "NT$",
+        "Iso3": "TWD"
+    },
+    {
+        "title": "Nicaraguan cordoba",
+        "ratio": "144.12",
+        "is_default": "0",
+        "symbol": "C$",
+        "Iso3": "NIO"
+    },
+    {
+        "title": "Nigerian naira",
+        "ratio": "146.12",
+        "is_default": "0",
+        "symbol": "â¦",
+        "Iso3": "NGN"
+    },
+    {
+        "title": "North Korean won",
+        "ratio": "104.12",
+        "is_default": "0",
+        "symbol": "â©",
+        "Iso3": "KPW"
+    },
+    {
+        "title": "Norwegian krone",
+        "ratio": "148.12",
+        "is_default": "0",
+        "symbol": "kr",
+        "Iso3": "NOK"
+    },
+    {
+        "title": "Omani rial",
+        "ratio": "149.12",
+        "is_default": "0",
+        "symbol": "Ø±.Ø¹.",
+        "Iso3": "OMR"
+    },
+    {
+        "title": "Pakistani rupee",
+        "ratio": "150.12",
+        "is_default": "0",
+        "symbol": "És",
+        "Iso3": "PKR"
+    },
+    {
+        "title": "Panamanian balboa",
+        "ratio": "152.12",
+        "is_default": "0",
+        "symbol": "B/.",
+        "Iso3": "PAB"
+    },
+    {
+        "title": "Papua New Guinea kina",
+        "ratio": "153.12",
+        "is_default": "0",
+        "symbol": "K",
+        "Iso3": "PGK"
+    },
+    {
+        "title": "Paraguayan guarani",
+        "ratio": "154.12",
+        "is_default": "0",
+        "symbol": "â²",
+        "Iso3": "PYG"
+    },
+    {
+        "title": "Peruvian nuevo sol",
+        "ratio": "155.12",
+        "is_default": "0",
+        "symbol": "S/.",
+        "Iso3": "PEN"
+    },
+    {
+        "title": "Philippine peso",
+        "ratio": "156.12",
+        "is_default": "0",
+        "symbol": "â±",
+        "Iso3": "PHP"
+    },
+    {
+        "title": "Polish zloty",
+        "ratio": "158.12",
+        "is_default": "0",
+        "symbol": "zÅ",
+        "Iso3": "PLN"
+    },
+    {
+        "title": "Qatari riyal",
+        "ratio": "160.12",
+        "is_default": "0",
+        "symbol": "Ø±.Ù",
+        "Iso3": "QAR"
+    },
+    {
+        "title": "Romanian leu",
+        "ratio": "161.12",
+        "is_default": "0",
+        "symbol": "L",
+        "Iso3": "RON"
+    },
+    {
+        "title": "Russian ruble",
+        "ratio": "162.12",
+        "is_default": "0",
+        "symbol": "ÑÑÐ±",
+        "Iso3": "RUB"
+    },
+    {
+        "title": "Rwandan franc",
+        "ratio": "163.12",
+        "is_default": "0",
+        "symbol": "RF",
+        "Iso3": "RWF"
+    },
+    {
+        "title": "Salvadoran coln",
+        "ratio": "62.12",
+        "is_default": "0",
+        "symbol": "â¡",
+        "Iso3": "SVC"
+    },
+    {
+        "title": "Samoan tÄlÄ",
+        "ratio": "165.12",
+        "is_default": "0",
+        "symbol": "T",
+        "Iso3": "WST"
+    },
+    {
+        "title": "SÃ£o TomÃ© and PrÃ­ncipe",
+        "ratio": "167.12",
+        "is_default": "0",
+        "symbol": "Db",
+        "Iso3": "STD"
+    },
+    {
+        "title": "Saudi riyal",
+        "ratio": "168.12",
+        "is_default": "0",
+        "symbol": "Ø±.Ø³",
+        "Iso3": "SAR"
+    },
+    {
+        "title": "Serbian dinar",
+        "ratio": "170.12",
+        "is_default": "0",
+        "symbol": "ÐÐ¸Ð½.",
+        "Iso3": "RSD"
+    },
+    {
+        "title": "Seychellois rupee",
+        "ratio": "171.12",
+        "is_default": "0",
+        "symbol": "És",
+        "Iso3": "SCR"
+    },
+    {
+        "title": "Sierra Leonean leone",
+        "ratio": "172.12",
+        "is_default": "0",
+        "symbol": "Le",
+        "Iso3": "SLL"
+    },
+    {
+        "title": "Singapore dollar",
+        "ratio": "173.12",
+        "is_default": "0",
+        "symbol": "S$",
+        "Iso3": "SGD"
+    },
+    {
+        "title": "Solomon Islands dollar",
+        "ratio": "176.12",
+        "is_default": "0",
+        "symbol": "SI$",
+        "Iso3": "SBD"
+    },
+    {
+        "title": "Somali shilling",
+        "ratio": "177.12",
+        "is_default": "0",
+        "symbol": "So. Sh.",
+        "Iso3": "SOS"
+    },
+    {
+        "title": "Somaliland shilling",
+        "ratio": "178.12",
+        "is_default": "0",
+        "symbol": "Sl. Sh.",
+        "Iso3": "Non"
+    },
+    {
+        "title": "South African rand",
+        "ratio": "179.12",
+        "is_default": "0",
+        "symbol": "R",
+        "Iso3": "ZAR"
+    },
+    {
+        "title": "South Korean won",
+        "ratio": "105.12",
+        "is_default": "0",
+        "symbol": "â©",
+        "Iso3": "KPW"
+    },
+    {
+        "title": "Sri Lankan rupee",
+        "ratio": "182.12",
+        "is_default": "0",
+        "symbol": "És",
+        "Iso3": "LKR"
+    },
+    {
+        "title": "St. Helena pound",
+        "ratio": "183.12",
+        "is_default": "0",
+        "symbol": "Â£",
+        "Iso3": "SHP"
+    },
+    {
+        "title": "Sudanese pound",
+        "ratio": "187.12",
+        "is_default": "0",
+        "symbol": "Â£Sd",
+        "Iso3": "SDG"
+    },
+    {
+        "title": "Surinamese dollar",
+        "ratio": "188.12",
+        "is_default": "0",
+        "symbol": "$",
+        "Iso3": "SRD"
+    },
+    {
+        "title": "Swazi lilangeni",
+        "ratio": "189.12",
+        "is_default": "0",
+        "symbol": "L",
+        "Iso3": "SZL"
+    },
+    {
+        "title": "Swedish krona",
+        "ratio": "190.12",
+        "is_default": "0",
+        "symbol": "kr",
+        "Iso3": "SEK"
+    },
+    {
+        "title": "Swiss franc",
+        "ratio": "115.12",
+        "is_default": "0",
+        "symbol": "Fr",
+        "Iso3": "CHF"
+    },
+    {
+        "title": "Swiss franc",
+        "ratio": "191.12",
+        "is_default": "0",
+        "symbol": "Fr",
+        "Iso3": "CHF"
+    },
+    {
+        "title": "Syrian pound",
+        "ratio": "192.12",
+        "is_default": "0",
+        "symbol": "SÂ£",
+        "Iso3": "SYP"
+    },
+    {
+        "title": "Tajikistani somoni",
+        "ratio": "194.12",
+        "is_default": "0",
+        "symbol": "SM",
+        "Iso3": "TJS"
+    },
+    {
+        "title": "Tanzanian shilling",
+        "ratio": "195.12",
+        "is_default": "0",
+        "symbol": "TSh",
+        "Iso3": "TZS"
+    },
+    {
+        "title": "Thai baht",
+        "ratio": "196.12",
+        "is_default": "0",
+        "symbol": "à¸¿",
+        "Iso3": "THB"
+    },
+    {
+        "title": "Tongan paÊ»anga",
+        "ratio": "198.12",
+        "is_default": "0",
+        "symbol": "T$",
+        "Iso3": "TOP"
+    },
+    {
+        "title": "Trinidad and Tobago dollar",
+        "ratio": "199.12",
+        "is_default": "0",
+        "symbol": "TT$",
+        "Iso3": "TTD"
+    },
+    {
+        "title": "Tunisian dinar",
+        "ratio": "200.12",
+        "is_default": "0",
+        "symbol": "Ø¯.Øª",
+        "Iso3": "TND"
+    },
+    {
+        "title": "Turkish lira",
+        "ratio": "201.12",
+        "is_default": "0",
+        "symbol": "TL",
+        "Iso3": "TRY"
+    },
+    {
+        "title": "Turkmenistani manat",
+        "ratio": "202.12",
+        "is_default": "0",
+        "symbol": "m",
+        "Iso3": "TMT"
+    },
+    {
+        "title": "Ugandan shilling",
+        "ratio": "205.12",
+        "is_default": "0",
+        "symbol": "USh",
+        "Iso3": "UGX"
+    },
+    {
+        "title": "Ukrainian hryvnia",
+        "ratio": "206.12",
+        "is_default": "0",
+        "symbol": "â´",
+        "Iso3": "UAH"
+    },
+    {
+        "title": "United Arab Emirates dirham",
+        "ratio": "207.12",
+        "is_default": "0",
+        "symbol": "Ø¯.Ø¥",
+        "Iso3": "AED"
+    },
+    {
+        "title": "Uruguayan peso",
+        "ratio": "210.12",
+        "is_default": "0",
+        "symbol": "$U",
+        "Iso3": "UYU"
+    },
+    {
+        "title": "US dollar",
+        "ratio": "60.12",
+        "is_default": "0",
+        "symbol": "$",
+        "Iso3": "USD"
+    },
+    {
+        "title": "Uzbekistani som",
+        "ratio": "211.12",
+        "is_default": "0",
+        "symbol": "Ð»Ð²",
+        "Iso3": "UZS"
+    },
+    {
+        "title": "Vanuatu vatu",
+        "ratio": "212.12",
+        "is_default": "0",
+        "symbol": "VT",
+        "Iso3": "VUV"
+    },
+    {
+        "title": "Venezuelan bolivar",
+        "ratio": "214.12",
+        "is_default": "0",
+        "symbol": "Bs",
+        "Iso3": "VEF"
+    },
+    {
+        "title": "Vietnamese dong",
+        "ratio": "215.12",
+        "is_default": "0",
+        "symbol": "â«",
+        "Iso3": "VND"
+    },
+    {
+        "title": "West African CFA franc",
+        "ratio": "19.12",
+        "is_default": "0",
+        "symbol": "CFA",
+        "Iso3": "XOF"
+    },
+    {
+        "title": "Yemeni rial",
+        "ratio": "217.12",
+        "is_default": "0",
+        "symbol": "ï·¼",
+        "Iso3": "YER"
+    },
+    {
+        "title": "Zambian kwacha",
+        "ratio": "218.12",
+        "is_default": "0",
+        "symbol": "ZK",
+        "Iso3": "ZMK"
+    },
+    {
+        "title": "Zimbabwean dollar",
+        "ratio": "219.12",
+        "is_default": "0",
+        "symbol": "Z$",
+        "Iso3": "ZWL"
+    }
+]

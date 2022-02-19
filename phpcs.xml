@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ruleset name="PSR12">
+    <description>The PSR2 coding standard.</description>
+    <rule ref="PSR12"/>
+    <file>.</file>
+    <exclude-pattern>bootstrap/cache</exclude-pattern>
+    <exclude-pattern>vendor</exclude-pattern>
+    <exclude-pattern>resources</exclude-pattern>
+    <exclude-pattern>database/</exclude-pattern>
+    <exclude-pattern>storage/</exclude-pattern>
+    <exclude-pattern>public/</exclude-pattern>
+    <exclude-pattern>tests/</exclude-pattern>
+    <exclude-pattern>/middleware</exclude-pattern>
+    <exclude-pattern>node_modules/</exclude-pattern>
+    <exclude-pattern>exceptions/</exclude-pattern>
+    <exclude-pattern>console/</exclude-pattern>
+    <rule ref="Squiz.Commenting.FunctionComment" />
+    <rule ref="Squiz.Commenting.FunctionCommentThrowTag" />
+    <!--<rule ref="Squiz.Commenting.ClassComment" />-->
+    <!--<rule ref="Squiz.Commenting.FileComment" />-->
+    <rule ref="Squiz.Commenting.VariableComment" />
+    <rule ref="Squiz.Commenting.FunctionComment.Missing"/>
+    <rule ref="Squiz.Commenting.FunctionComment.MissingParamTag"/>
+    <rule ref="Squiz.Commenting.FunctionComment.MissingParamName"/>
+    <rule ref="Squiz.Commenting.FunctionComment.ParamNameNoMatch"/>
+    <rule ref="Squiz.Commenting.FunctionComment.IncorrectTypeHint"/>
+    <rule ref="Squiz.Commenting.FunctionComment.MissingReturn"/>
+    <!--<rule ref="Generic.CodeAnalysis.UnusedFunctionParameter"/>-->
+    <!--<rule ref="Generic.Commenting.Todo"/>-->
+    <rule ref="Generic.ControlStructures.InlineControlStructure"/>
+    <rule ref="PSR12.Properties.ConstantVisibility.NotFound">
+         <!--todo:: Remove bugs when they are resolved-->
+         <!--@see https://github.com/squizlabs/PHP_CodeSniffer/issues/2739 -->
+        <exclude-pattern>/**/*</exclude-pattern>
+    </rule>
+    <rule ref="Generic.Files.LineLength">
+        <properties>
+            <property name="lineLimit" value="500"/>
+            <property name="absoluteLineLimit" value="500"/>
+        </properties>
+    </rule>
+    <rule ref="Generic.Formatting.MultipleStatementAlignment">
+        <properties>
+            <property name="maxPadding" value="1"/>
+            <property name="ignoreMultiLine" value="true"/>
+            <property name="error" value="true"/>
+        </properties>
+    </rule>
+    <rule ref="Squiz.Strings.DoubleQuoteUsage"/>
+    <rule ref="Squiz.Strings.DoubleQuoteUsage.ContainsVar">
+        <severity>0</severity>
+    </rule>
+</ruleset>
